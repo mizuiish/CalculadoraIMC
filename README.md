@@ -8,11 +8,9 @@ Cálculo do IMC com base no peso e altura informados.
 Classificação da faixa de peso (abaixo do peso, peso normal, sobrepeso, obesidade).
 
 ### Tecnologias Utilizadas
-C#
-
-ASP.NET Core
-
-Visual Studio Code
+* C#
+* ASP.NET Core
+* Visual Studio Code
 
 
 ### Como Utilizar
