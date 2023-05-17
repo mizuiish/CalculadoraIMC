@@ -9,8 +9,11 @@ Classificação da faixa de peso (abaixo do peso, peso normal, sobrepeso, obesid
 
 ### Tecnologias Utilizadas
 C#
+
 ASP.NET Core
+
 Visual Studio Code
+
 
 ### Como Utilizar
 Clone este repositório para o seu ambiente local.
