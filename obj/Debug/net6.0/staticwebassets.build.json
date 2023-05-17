@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oGwVbwLHbiGtGOGz/ooyfDGeCUV8NYLCrBmCBu7+tIs=",
+  "Source": "calculadoraIMC",
+  "BasePath": "_content/calculadoraIMC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
