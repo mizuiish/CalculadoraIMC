@@ -14,13 +14,13 @@ Classificação da faixa de peso (abaixo do peso, peso normal, sobrepeso, obesid
 
 
 ### Como Utilizar
-Clone este repositório para o seu ambiente local.
-Abra o projeto no Visual Studio Code.
-Execute o projeto pressionando F5 ou digitando o comando dotnet run.
-Acesse a URL http://localhost:5000 em seu navegador.
-Informe o peso e a altura nos campos fornecidos.
-Clique no botão "Calcular IMC".
-O resultado do cálculo e a faixa de peso correspondente serão exibidos.
+* Clone este repositório para o seu ambiente local.
+* Abra o projeto no Visual Studio Code.
+* Execute o projeto pressionando F5 ou digitando o comando dotnet run.
+* Acesse a URL http://localhost:5000 em seu navegador.
+* Informe o peso e a altura nos campos fornecidos.
+* Clique no botão "Calcular IMC".
+* O resultado do cálculo e a faixa de peso correspondente serão exibidos.
 
 ### Contribuição
 Contribuições são sempre bem-vindas! Se você quiser contribuir com melhorias, correções de bugs ou adicionar novas funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
